@@ -13,7 +13,7 @@ Here's how you do that:
 Kruschke's book is really accessible and a great way to get started with the basic concepts. In my opinion it is not the best (but still a very good) option beyond that. For once, it's still mostly using JAGS instead of a modern sampler like STAN or PyMC3. Besides, it's focussing a bit too much on Bayesian alternatives to frequentist NHST approaches instead of emphasizing the construction of a generative model. Reading chapters 2,4 and 5 gives you a solid foundation to proceed with another ressource.
 
 McElreath's book is the recommended course for learning Bayesian stats by just about everybody. It just came out in the 2nd edition which adds a lot on prior predictive checks and causal inference. The basic idea is that you get rid of flow-chart statistics in which the kind of data you have tells you which test to use. Instead you'll get comfortable with writing down the process that supposedly generated the data in a probabilistic program in STAN. Another selling point is that this course comes with a lecture series by the author. So you can watch the lecture, read the chapter, meet a colleague to do some exercises and in half a year you're done. 
-The lecture series can be found [here](https://www.youtube.com/watch?v=4WVelCswXo4&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI).
+The lecture series can be found [here](https://www.youtube.com/watch?v=BYUykHScxj8&list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN&index=1).
 
 
 ## Bayesian cognitive modeling
